@@ -1,5 +1,7 @@
 # nuxt-learn
 
+nuxt.jsの学習用です。
+
 ## Build Setup
 
 ```bash
