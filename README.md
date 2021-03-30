@@ -1,10 +1,6 @@
-<h2 align="center">基礎から学ぶVue.js</h2>
+<h2 align="center">Nuxt.js学習</h2>
 
-## :clap:著書サイトURLと著者様
-https://cr-vue.mio3io.com/
-<br>著者:mio様
-
-### 書籍:基礎から学ぶVue.js(改訂第2版)の学習用です。
+### 書籍:Nuxt.jsの学習用です。
 
 ## Build Setup
 
