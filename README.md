@@ -1,6 +1,6 @@
 <h2 align="center">Nuxt.js学習</h2>
 
-### 書籍:Nuxt.jsの練習用です。
+### Nuxt.jsの練習用です。
 
 ## Build Setup
 
